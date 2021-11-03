@@ -1,0 +1,25 @@
+{
+  "name": "Projeto1_Backend_3",
+  "version": "1.0.0",
+  "description": "Projeto 1 - Backend NODE + Express",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "dev": "nodemon index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AndreiaLima19/Projeto1_Backend_3.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AndreiaLima19/Projeto1_Backend_3/issues"
+  },
+  "homepage": "https://github.com/AndreiaLima19/Projeto1_Backend_3#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.14"
+  }
+}
